@@ -26,7 +26,7 @@ title: Efrice Resume
 </div>
 
 <div class="mt-6 info">
-  <h2 class="text-l mb-2 font-bold">Info</h2>
+  <h2 class="text-l mb-2 font-bold">Infomation</h2>
   <ul>
     <li><span class="pr-1"><carbon-home /></span>address: undefined</li>
   </ul>
@@ -81,9 +81,9 @@ title: Efrice Resume
 <div class="mt-6">
   <h2 class="text-2xl mb-2 font-bold">About</h2>
   <List listStyleType="none" :list="[
-    `I am an open-source enthusiast and maintainer.`,
-    `I love how collaboration and knowledge sharing happens through open-source.`,
-    `I am very happy to see what I do could eventually feedback to the community and industry.`]" />
+    `- I am an open-source enthusiast and maintainer.`,
+    `- I love how collaboration and knowledge sharing happens through open-source.`,
+    `- I am very happy to see what I do could eventually feedback to the community and industry.`]" />
 </div>
 
 </div>

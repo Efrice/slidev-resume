@@ -2,7 +2,7 @@
   "name": "demo",
   "private": true,
   "scripts": {
-    "build": "slidev build",
+    "build": "slidev build --out docs",
     "dev": "slidev",
     "export": "slidev export"
   },
@@ -12,6 +12,7 @@
     "@slidev/theme-seriph": "latest"
   },
   "devDependencies": {
-    "@iconify-json/tabler": "^1.1.91"
+    "@iconify-json/tabler": "^1.1.91",
+    "playwright-chromium": "^1.38.1"
   }
 }
